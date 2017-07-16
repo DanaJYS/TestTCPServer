@@ -6,6 +6,8 @@ enum
 	ID_DisConnectButton,
 	ID_SendDataButton,
 	ID_ClearButton
+	ID_ClearButton,
+	ID_TestGit
 };
 
 BEGIN_EVENT_TABLE(MyFrame, wxFrame)
