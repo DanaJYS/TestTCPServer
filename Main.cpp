@@ -4,6 +4,7 @@
 DECLARE_APP(MyApp)
 IMPLEMENT_APP(MyApp)
 ///////
+///////
 
 bool MyApp::OnInit()
 {
